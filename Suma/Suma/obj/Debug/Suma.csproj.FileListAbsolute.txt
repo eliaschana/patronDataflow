@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\c#\Suma\Suma\bin\Debug\Suma.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\c#\Suma\Suma\bin\Debug\Suma.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\c#\Suma\Suma\bin\Debug\Suma.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\c#\Suma\Suma\obj\Debug\Suma.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\c#\Suma\Suma\obj\Debug\Suma.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\c#\Suma\Suma\obj\Debug\Suma.pdb
